@@ -1,0 +1,30 @@
+img {
+  max-width: 100%;
+}
+
+.header {
+  background-color: #333;
+  color: #FFFFFF;
+  text-align: left;
+  padding: 30px;
+  font-size: 2.5em;
+}
+
+.topnav {
+  background-color: #000080;
+  padding: 20px;
+}
+
+.topnav a {
+  float: center;
+  color: #FFFFFF;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+.column {
+  float: left;
+  background: #333;
+  color: #FFFFFF;
+}
